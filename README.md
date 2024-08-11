@@ -2,7 +2,7 @@
 
 ## Iris Species Classification using KNN Classifier Algorithm
 ### Overview:
-The objective of this project is to build a Decision Tree classifier to predict the species of iris flowers based on their physical characteristics. The dataset used for this project is the famous Iris dataset, which contains 150 samples of iris flowers with four features: sepal length, sepal width, petal length, and petal width. The target variable is the species of the iris flower, which can be one of three classes: Iris-setosa, Iris-versicolor, or Iris-virginica.
+The objective of this project is to build a KNN classifier to predict the species of iris flowers based on their physical characteristics. The dataset used for this project is the famous Iris dataset, which contains 150 samples of iris flowers with four features: sepal length, sepal width, petal length, and petal width. The target variable is the species of the iris flower, which can be one of three classes: Iris-setosa, Iris-versicolor, or Iris-virginica.
 
 ### Explanation of the Code:
 ### Step1: Import Libraries:
